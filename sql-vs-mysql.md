@@ -14,6 +14,8 @@ SQL (Structured Query Language) and MySQL are both fundamental components in the
 **Use Case:**
 - **Standardized Query Language**: SQL is used across various relational database management systems (RDBMS) to perform standardized operations on databases.
 
+  an example : find all users who are 18 or older ==> `select * from users where age>=18;`
+
 ### MySQL
 
 **Concept:**
