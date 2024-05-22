@@ -51,6 +51,8 @@ A Database Management System (DBMS) is software that interacts with users, appli
 4. **Hierarchical DBMS**: Data is organized in a tree-like structure (e.g., IBM Information Management System).
 5. **Network DBMS**: Data is organized in a graph structure allowing many-to-many relationships (e.g., IDMS).
 
+
+<img src="./sql-photos/Screenshot 2024-05-22 192701.png>
 ### Summary
 
 In essence, a database is a structured set of data, while a DBMS is the software used to manage that data. The DBMS provides essential functionalities for defining, manipulating, retrieving, and managing data, ensuring its integrity, security, and availability.
