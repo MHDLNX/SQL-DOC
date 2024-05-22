@@ -5,5 +5,5 @@
   - <a href="sql-vs-mysql.md">SQL VS MYSQL</a>
 
 ## Creating Databases & Tables
-  - <a href="showing-database">Showing Databases</a>
+  - <a href="showing-database.md">Showing Databases</a>
   
