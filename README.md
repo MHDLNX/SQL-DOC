@@ -6,6 +6,6 @@
 
 ## Creating Databases & Tables
   - <a href="showing-database.md">Showing Databases</a>
-  - <a href="create-databases.md">Creating Databases</a>
+  - <a href="create-database.md">Creating Databases</a>
   
   
