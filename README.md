@@ -1,3 +1,6 @@
 # SQL-DOC
 
-1- <a href="start.md">Getting started with Database</a>
+## getting started 
+  - <a href="What-Is-Database.md">What is a Database ?</a>
+  - <a href="sql-vs-mysql.md">SQL VS MYSQL</a>
+  
