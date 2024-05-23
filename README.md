@@ -8,6 +8,8 @@
   - <a href="showing-database.md">Showing Databases</a>
   - <a href="create-database.md">Creating Databases</a>
   - <a href="dropping-and-using-DB.md">Dropping and Using Databases</a>
+  - <a href="Introducing-Tables.md">Introducing Tables</a>
+  
   
   
   
